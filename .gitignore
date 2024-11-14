@@ -1,0 +1,28 @@
+# Composer
+/vendor/
+/composer.lock
+
+# PHPStorm
+/.idea/
+
+# Generic
+*.log
+*.cache
+*.tmp
+*.swp
+*.swo
+*.bak
+*.orig
+*.save
+*.sql
+*.sqlite
+*.sqlite3
+*.DS_Store
+*.env
+*.env.local
+*.env.*.local
+.env.local.php
+.env.*.local.php
+phpunit.xml
+phpunit.xml.dist
+phpunit.result.cache
